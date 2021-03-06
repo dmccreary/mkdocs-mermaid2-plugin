@@ -5,3 +5,4 @@
 1. [GraphVix](https://gitlab.com/graphviz/graphviz)
 2. [GraphViz vs Dot](https://github.com/mermaid-js/mermaid/issues/5)
 3. [Vis JS](http://viz-js.com/)
+4. [Dot User Guide](https://www.graphviz.org/pdf/dotguide.pdf)

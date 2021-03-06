@@ -1,6 +1,7 @@
 site_name: Auto layout For Graph Modeling
-
+repo_url: https://github.com/dmccreary/mkdocs-mermaid2-plugin
 # for actions securityLevel='loose'
 theme: material
 plugins:
+    - search
     - mermaid2

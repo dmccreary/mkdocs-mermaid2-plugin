@@ -1,7 +1,14 @@
 # Graph Basics
 We will generate the basic elements of a labeled property graph:
 
-1. Round circles for verticies
+```mermaid
+graph LR
+    id1((Provider))
+    -- HAS_PATIENT -->
+    id2((Patient))
+```
+
+1. Round circles for vertices
 2. Labeled edges
 
 We will use the following conventions:
@@ -11,12 +18,10 @@ We will use the following conventions:
 
 Our graphs will use a Left-to-Right orientation.  Other [layout options](https://mermaid-js.github.io/mermaid/#/flowchart?id=flowchart-orientation) you can use are:
 
-* LR for Left-to-Right orientation
-* TD for Top-Down orientation
-* TB - top to bottom
-* TD - top-down/ same as top to bottom
-* BT - bottom to top
-* RL - right to left
+* **LR** - for Left-to-Right orientation
+* **TD** or **TB** - for Top-Down Top to Bottom orientation
+* **BT** - bottom to top
+* **RL** - right to left
 
 Each of our drawings begin with the keyword ```graph``` and the automatic layout algorithm.  So for graphs with Left-to-Right layouts we start our drawing with:
 

@@ -2,5 +2,4 @@
 
 # Dan's Graph Modeling Automatic Layout Demos
 
-[Documentation is here]
-(https://dmccreary.github.io/mkdocs-mermaid2-plugin/)
+[Documentation is here](https://dmccreary.github.io/mkdocs-mermaid2-plugin/)

@@ -1,5 +1,6 @@
-site_name: Mermaid2 Test
+site_name: Auto layout For Graph Modeling
 
+# for actions securityLevel='loose'
+theme: material
 plugins:
-    - search
     - mermaid2

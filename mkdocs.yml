@@ -1,0 +1,5 @@
+site_name: Mermaid2 Test
+
+plugins:
+    - search
+    - mermaid2
